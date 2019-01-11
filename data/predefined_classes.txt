@@ -4,5 +4,8 @@ foreign
 puckering
 bridging
 missing
-twisted
-splitting
+tow defect
+scratch
+pit
+connect
+unknow
